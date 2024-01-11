@@ -17,7 +17,7 @@ function App() {
 
     setTimeout(() => {
       setAlert(null)
-    }, 3000);
+    }, 5000);
   }
 
   const toggleBtn = ()=>{
