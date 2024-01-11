@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import './Style.css';
+
 
 const TextForm = (props) => {
     const [text, setText] = useState("");
