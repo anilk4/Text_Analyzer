@@ -10,6 +10,9 @@ Transform Case: Convert text to uppercase or lowercase.
 Dynamic Presentations: Utilize text-to-speech for captivating presentations.
 Polished Look: Eliminate extra spaces for a refined appearance.
 Copy and Clear: Copy modified text with ease or start afresh by clearing the textbox.
+<div>
+  <br />
 🌟 Additional Functionality
 Practical Editing: Word and character counters for effective text manipulation.
 Readability: Discover the average time required to read your text.
+</div>
